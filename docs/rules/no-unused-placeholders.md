@@ -1,6 +1,6 @@
 # Disallow unused placeholders in rule report messages (`eslint-plugin/no-unused-placeholders`)
 
-✅ This rule is enabled in the `recommended` config.
+✅ This rule is enabled in the `recommended` [config](https://github.com/eslint-community/eslint-plugin-eslint-plugin/blob/main/README.md#presets).
 
 <!-- end rule header -->
 
